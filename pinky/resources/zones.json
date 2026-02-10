@@ -10,7 +10,7 @@
             "card46.jpg"
         ],
         "slug": "hookah",
-        "link": "/hookah.html"
+        "link": "hookah.html"
     },
     {
         "id": 2,
@@ -24,7 +24,7 @@
             "card43.jpg"
         ],
         "slug": "robin",
-        "link": "/robin.html"
+        "link": "robin.html"
     },
    
     {
@@ -39,7 +39,7 @@
             "card40.jpg"
         ],
         "slug": "like",
-        "link": "/like.html"
+        "link": "like.html"
     },
     {
         "id": 5,
@@ -53,7 +53,7 @@
             "card37.jpg"
         ],
         "slug": "rubl",
-        "link": "/rubl.html"
+        "link": "rubl.html"
     },
     {
         "id": 6,
@@ -66,7 +66,7 @@
             "card31.jpg"
         ],
         "slug": "apteka",
-        "link": "/apteka.html"
+        "link": "apteka.html"
     },
     {
         "id": 7,
@@ -81,7 +81,7 @@
             "card54.jpg"
         ],
         "slug": "sun_rai",
-        "link": "/sun_rai.html"
+        "link": "sun_rai.html"
     },
     {
         "id": 8,
@@ -96,6 +96,6 @@
             "card50.jpg"
         ],
         "slug": "vgu",
-        "link": "/vgu.html"
+        "link": "vgu.html"
     }
 ]
