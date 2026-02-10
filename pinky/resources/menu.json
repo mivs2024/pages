@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "name": "О нас",
+        "link":"/about.html",
+        "slug": "onas"
+    },
+   
+    
+    {
+        "id": "2",
+        "name": "Pinky",
+        "link":"/pinky.html",
+        "slug": "pinky"
+    },
+    {
+        "id": "3",
+        "name": "Наши питомцы",
+        "link":"/pinky1.html",
+        "slug": "nashi_pitomcy"
+    },
+
+    {
+        "id": "5",
+        "name": "Контакты",
+        "link":"/contacts.html",
+        "slug": "kontakty"
+    },
+    {
+        "id": "3.1",
+        "name": "пес Pinky",
+        "link":"/pinky1.html",
+        "slug": "pinky1"
+    },
+   
+    {
+        "id": "3.2",
+       "name": "пес Pinky2",
+        "link":"/pinky2.html",
+        "slug": "pinky2"
+    },
+    {
+        "id": "3.3",
+        "name": "пес Pinky3",
+        "link":"/pinky3.html",
+
+        "slug": "pinky3"
+    },
+    {
+        "id": "3.4",
+        "name": "голубь Панас",
+        "link":"/panas/html",
+        "slug": "panas"
+    }
+   
+   
+]

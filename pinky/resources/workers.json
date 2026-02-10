@@ -1,0 +1,77 @@
+[
+   
+    {
+        "id": 2,
+        "name": "Брахицефалий Чехов",
+        "images":["card2.jpg"],
+        "position":"Основатель"
+    },
+     {
+        "id": 3,
+        "name": "Иван Сергеевич",
+        "images":["card3.jpg"],
+        "position":"Ветеринар"
+    },
+    {
+        "id": 1,
+        "name": "Марина",
+        "images":["card1.png"],
+        "position":"Няня для малышей"
+    },
+    {
+        "id": 4,
+        "name": "Вячеслав",
+        "images":["card4.jpg"],
+        "position":"Муж Марины"
+    },
+    {
+        "id": 5,
+        "name": "Олег",
+        "images":["card5.jpg"],
+        "position":"Дрессировщик"
+    },
+   
+   
+    {
+        "id": 6,
+        "name": "Степан Петрович",
+        "images":["card6.jpg"],
+        "position":"Специалист по груммингу"
+    },
+   
+    {
+        "id": 7,
+        "name": "Николь и Крис Запашные",
+        "images":["card7.jpg"],
+        "position":"Уход за животными"
+    },
+    {
+        "id": 8,
+        "name": "Лабрадор Маркович",
+        "images":["card8.jpg"],
+        "position":"Дрессировщик"
+    },
+
+    {
+        "id": 10,
+        "name": "Нефариус",
+        "images":["card10.jpg"],
+        "position":"Ветеринар"
+    },
+    {
+        "id": 11,
+        "name": "Максим Илов",
+        "images":["card11.jpg"],
+        "position":"Главный менеджер"
+    },
+    {
+        "id": 12,
+        "name": "Софья Маркеловна",
+        "images":["card12.jpg"],
+        "position":"Главный бухглтер"
+    }
+   
+   
+    
+   
+]

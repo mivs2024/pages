@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "Кальянная",
+        "images": [
+            "card1.jpg",
+            "card3.jpg",
+            "card44.jpg",
+            "card45.jpg",
+            "card46.jpg"
+        ],
+        "slug": "hookah",
+        "link": "/hookah.html"
+    },
+    {
+        "id": 2,
+        "name": "Робин Бобин",
+        "images": [
+            "card4.jpg",
+            "card5.jpg",
+            "card6.jpg",
+            "card41.jpg",
+            "card42.jpg",
+            "card43.jpg"
+        ],
+        "slug": "robin",
+        "link": "/robin.html"
+    },
+   
+    {
+        "id": 4,
+        "name": "Coffee Like",
+        "images": [
+            "card10.jpg",
+            "card11.jpg",
+            "card12.jpg",
+            "card38.jpg",
+            "card39.jpg",
+            "card40.jpg"
+        ],
+        "slug": "like",
+        "link": "/like.html"
+    },
+    {
+        "id": 5,
+        "name": "Два рубля",
+        "images": [
+            "card32.jpg",
+            "card33.jpg",
+            "card34.jpg",
+            "card35.jpg",
+            "card36.jpg",
+            "card37.jpg"
+        ],
+        "slug": "rubl",
+        "link": "/rubl.html"
+    },
+    {
+        "id": 6,
+        "name": "Аптека Вита",
+        "images": [
+            "card16.jpg",
+            "card17.jpg",
+            "card18.jpg",
+            "card30.jpg",
+            "card31.jpg"
+        ],
+        "slug": "apteka",
+        "link": "/apteka.html"
+    },
+    {
+        "id": 7,
+        "name": "Солнечный рай",
+        "images": [
+            "card19.jpg",
+            "card20.jpg",
+            "card21.jpg",
+            "card51.jpg",
+            "card52.jpg",
+            "card53.jpg",
+            "card54.jpg"
+        ],
+        "slug": "sun_rai",
+        "link": "/sun_rai.html"
+    },
+    {
+        "id": 8,
+        "name": "ВГУ",
+        "images": [
+            "card22.jpg",
+            "card23.jpg",
+            "card24.jpg",
+            "card47.jpg",
+            "card48.jpg",
+            "card49.jpg",
+            "card50.jpg"
+        ],
+        "slug": "vgu",
+        "link": "/vgu.html"
+    }
+]
